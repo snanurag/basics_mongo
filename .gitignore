@@ -1,7 +1,5 @@
-
-.gitignore
 .gradle/
-.idea
+.idea/*
 gradle/
 gradlew
 gradlew.bat
